@@ -1,3 +1,5 @@
 # introsde-storage
 
-https://fathomless-journey-7209.herokuapp.com/introsde/storage/
+Description of the Storage Service Endpoints: 
+
+https://github.com/IntrosdeFinalProject/introsde-storage/wiki
